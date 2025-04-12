@@ -1,4 +1,4 @@
-IntelliDota is a mobile application that helps in-game decision making through machine learning and visualization. This project contains the back-end services and is a part of: 
+IntelliDota is a mobile application that helps in-game decision making through machine learning and visualization. This repository contains the research and presentations, where as the technical content can be found in the following repositories:
 
 - [IntelliDotaAPI (backend server)](https://github.com/LabinotVila/intelli-dota)
 - [IntelliDotaIC (machine learning)](https://github.com/noraibrahimi/IntelliDotaIC)
